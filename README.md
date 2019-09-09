@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 30 / 360 Rule Calculator Module for PHP-Nuke Titanium v3.0.0
 
 You can use the [editor on GitHub](https://github.com/scottybcoder/30-360-rule-module/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
