@@ -4,7 +4,7 @@ You can use the [Loan Calculator on The 86it Developers Network](https://hub.86i
 
 ### © 2012 ESO Software Inc.
 email : scottybcoder@gmail.com
-Written by: Truman Scott Buffington
+author: Truman Scott Buffington
 
 ### ACTUAL/360 (AKA 365/360)
 
