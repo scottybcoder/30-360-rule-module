@@ -3,7 +3,7 @@
 You can use the [Loan Calculator on The 86it Developers Network](https://hub.86it.us) to setup a loan anytime you like.
 
 ### © 2012 ESO Software Inc.
-email : scottybcoder@gmail.com
+email : scottybcoder@gmail.com<br />
 author: Truman Scott Buffington
 
 ### ACTUAL/360 (AKA 365/360)
