@@ -1,8 +1,6 @@
 ## 30 / 360 Rule Calculator Module for PHP-Nuke Titanium v3.0.0
 
-You can use the [editor on GitHub](https://github.com/scottybcoder/30-360-rule-module/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the [Loan Calculator on The 86it Developers Network](https://hub.86it.us) to setup a loan anytime you like.
 
 ### Markdown
 
