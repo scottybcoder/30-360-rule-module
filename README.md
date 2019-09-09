@@ -2,9 +2,9 @@
 
 You can use the [Loan Calculator on The 86it Developers Network](https://hub.86it.us) to setup a loan anytime you like.
 
-### Markdown
+### (C) 2012 ESO Software Inc.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+email : scottybcoder@gmail.com
 
 ```markdown
 Syntax highlighted code block
